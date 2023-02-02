@@ -1,1 +1,1 @@
-This is the GitHub repo used for the Medium post Rotating user passwords in databases hosted in AWS.
+This is the GitHub repo used for the Medium post [Rotating user passwords in databases hosted in AWS](https://medium.com/globalwork-data-driven-world/rotating-user-passwords-in-databases-hosted-in-aws-cda6f7e9c40e).
